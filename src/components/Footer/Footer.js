@@ -92,7 +92,7 @@ function Footer() {
         </div>
 
         <div className="footer__rights">
-          <p className="footer__copy">&169; 2023 AbilComel. All rights reserved.</p>
+          <p className="footer__copy">&169; 2023 Abil. All rights reserved.</p>
           <div className="footer__terms">
             <a href="/" className="footer__terms-link">
               Terms & Agreements
